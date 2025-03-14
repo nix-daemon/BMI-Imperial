@@ -5,7 +5,7 @@ using namespace std;
 float lbToKGFactor = 0.453592;
 float inchToMeterFactor = 0.0254;
 
-main(){
+int main(){
     float weightImperial;
     float heightImperial;
     float weightMetric;
